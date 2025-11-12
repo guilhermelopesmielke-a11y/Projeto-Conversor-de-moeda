@@ -7,6 +7,7 @@ Projeto simples para converter valores entre moedas de forma prática, utilizand
 
 ## 🖼 Prévia do Projeto
 
+<img src="https://github.com/guilhermelopesmielke-a11y/Conversor-de-moeda/blob/main/assets/Captura%20de%20tela%202025-11-10%20211008.png?raw=true">
 
 ## 🚀 Funcionalidades
 - Conversão entre moedas
